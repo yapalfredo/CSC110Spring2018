@@ -5,7 +5,7 @@ public class MathOperators {
         int x = 2;
         int y = 19;
 
-         System.out.println("X + Y = " + (x + y));
+        System.out.println("X + Y = " + (x + y));
         System.out.println("Y / X = " + ((float)y/x));
         System.out.println("X^2 + Y^2 = " + (Math.pow(x, 2) + Math.pow(y, 2)));
         System.out.println("Square Root of Y^3 * 5 = " + (Math.sqrt(Math.pow(y, 3) * 5)));
